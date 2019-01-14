@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book Search</string>
+    <string name="intro">One Stop For All Book Lovers And Readers...</string>
+    <string name="enter">Please enter a keyword to search for books..</string>
+    <string name="et">Enter</string>
+    <string name="search">SEARCH</string>
+    <string name="default_text">Please enter a valid keyword to search for the book.</string>
+</resources>
